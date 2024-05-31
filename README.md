@@ -12,5 +12,4 @@ Desenvolvedor apaixonado por tecnologia e inovação. Atualmente matriculado no 
 
 ### Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaosilva-blue)](https://linkedin.com/in/joaosilva)
-[![Twitter](https://img.shields.io/badge/Twitter-@joaosilva-blue)](https://twitter.com/joaosilva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-diogosilvabr-blue)](https://linkedin.com/in/diogosilvabr)
