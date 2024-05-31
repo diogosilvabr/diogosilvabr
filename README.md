@@ -24,5 +24,5 @@
 
 ### Projetos em Destaque
 
-- [Donation.AI](https://github.com/diogosilvabr/Donation.AI) - Uma inteligência artificial para filtragem de texto inadequado.
+- 🎓 [Donation.AI](https://github.com/diogosilvabr/Donation.AI) - Uma inteligência artificial para filtragem de texto inadequado.
 
