@@ -1,4 +1,4 @@
-# Olá! Eu sou o João Silva 👋
+# Olá! Eu sou o Diogo Pereira 👋
 
 ### Sobre mim
 
