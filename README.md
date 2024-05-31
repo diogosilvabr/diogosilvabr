@@ -9,8 +9,7 @@
 <div style="display: inline_block"><br>
     <img align="center" alt="Aline-HTML" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Aline-Js" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Aline-CSS" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="right" alt="Aline-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/e4be1dd755c352938fd7a00a242670f4.gif">
+    <img align="center" alt="Aline-CSS" height="40" width="70" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg">
 </div>
   
   ##
