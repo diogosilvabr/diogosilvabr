@@ -8,7 +8,7 @@ Desenvolvedor apaixonado por tecnologia e inovação. Atualmente matriculado no 
 
 ### Projetos em Destaque
 
-- [Projeto A](https://github.com/diogosilvabr/Donation.AI) - Uma aplicação web incrível que faz XYZ.
+- [Donation.AI](https://github.com/diogosilvabr/Donation.AI) - Uma inteligência artificial para filtragem de texto inadequado.
 
 ### Conecte-se comigo
 
